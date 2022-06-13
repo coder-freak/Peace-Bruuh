@@ -22,6 +22,9 @@ In order to avoid such conditions PEACE_Bruuh! will show the availability of all
 
 - Figma
 
+# Creators
+
+Created By Abinaya T and Dhanush B as part of Hackathon conducted by MIT IEEE Society!
 # Snapshots
 ![HOME](https://user-images.githubusercontent.com/91135324/170502764-fe6ce759-a622-427d-af88-887caab8b51e.png)
 
